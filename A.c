@@ -3,4 +3,5 @@
 void a(void)
 {
     printf("Hello from A\n");
+    aaa
 }
